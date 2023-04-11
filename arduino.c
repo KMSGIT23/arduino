@@ -2,5 +2,6 @@ void setup(){
 
 }
 void loop(){
-	println("1. teacher is badman. say kangeon")
+	println("1. teacher is badman. say kangeun");
+	println("11");
 }
